@@ -6,15 +6,15 @@
 ---
 
 ## Table of Contents
-1.  [Project Overview](#project-overview)
-2.  [The Technology: Why ESRGAN?](#the-technology-why-esrgan)
-3.  [Real-World Applications](#real-world-applications)
-4.  [Technology Stack](#technology-stack)
-5.  [Setup and Installation](#setup-and-installation)
-6.  [How to Run the Project](#how-to-run-the-project)
-7.  [Performance and Results](#performance-and-results)
-8.  [Dataset Information](#dataset-information)
-9.  [Acknowledgements](#acknowledgements)
+1.  Project Overview
+2.  The Technology: Why ESRGAN?
+3.  Real-World Applications
+4.  Technology Stack
+5.  Setup and Installation
+6.  How to Run the Project
+7.  Performance and Results
+8.  Dataset Information
+9.  Acknowledgements
 
 ---
 
