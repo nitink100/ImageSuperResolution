@@ -1,6 +1,6 @@
 Image Super-Resolution using ESRGAN
 
-Author: Nitin Kanna (UCF ID: 5566997)
+Author: Nitin Kanna
 
 -----
 
