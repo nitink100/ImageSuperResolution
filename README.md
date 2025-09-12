@@ -1,4 +1,4 @@
-High-Fidelity Image Super-Resolution using ESRGAN
+Image Super-Resolution using ESRGAN
 
 Author: Nitin Kanna (UCF ID: 5566997)
 
@@ -72,17 +72,14 @@ Follow these steps to set up the project environment.
 2.  Create a virtual environment (recommended):
     This isolates the project dependencies and avoids conflicts.
 
-    # For macOS/Linux
-
+     # For macOS/Linux
     python3 -m venv venv
     source venv/bin/activate
-
     # For Windows
-
     python -m venv venv
     venv\\Scripts\\activate
 
-3.  Install the required dependencies:
+4.  Install the required dependencies:
     The requirements.txt file contains all necessary libraries.
 
     pip install -r requirements.txt
